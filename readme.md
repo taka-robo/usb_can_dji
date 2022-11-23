@@ -1,6 +1,18 @@
 # USB_CAN_DJI
 ## Supported environment
  - Ubuntu(20.04 LTS tested)
+
+## Check the device
+Type command below to check 'can0' device is available in system.
+
+```bash
+ifconfig -a
+```
+
+## Install tools
+```bash 
+sudo apt install can-utils
+```
 ## How to
 ```bash
 cd usb_can_dji

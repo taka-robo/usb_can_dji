@@ -1,4 +1,6 @@
 # USB_CAN_DJI
+## Supported environment
+ - Ubuntu(20.04 LTS tested)
 ## How to
 ```bash
 cd usb_can_dji

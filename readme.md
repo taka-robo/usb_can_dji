@@ -3,7 +3,7 @@
  - Ubuntu(20.04 LTS tested)
 
 ## Check the device
-Type command below to check 'can0' device is available in system.
+Type command below to check 'can0' device is available in system after connected device to the pc.
 
 ```bash
 ifconfig -a
